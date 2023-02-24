@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: grid;
+	grid-template-columns: 200px 200px;
+	height: 300px;
+	width: 200px;
+	gap: 20px;
+}
+.item-1{
+	background-color: black;
+}
+.item-2{
+	background-color: black;
+}
+.item-3{
+	background-color: black;
+}
+.item-4{
+	background-color: black;
+}

@@ -2,10 +2,9 @@
 /* Your CSS Code here. */
 .holder{
 	display: grid;
-	grid-template-columns: 200px 200px;
-	height: 300px;
-	width: 200px;
-	gap: 20px;
+	grid-template-columns: 100px 100px;
+	gap: 2px;
+	
 }
 .item-1{
 	background-color: black;
